@@ -30,13 +30,13 @@ Aqui está uma representação visual dos passos principais da minha rotina.
     <!-- Passo 1 a 3: Manhã -->
     <td width="33.33%" align="center" valign="top">
       <img src="imagens/acordar-e-tomar-cafe.jpg" alt="Homem sentado na cama, tomando café pela manhã">
-      <br><em>Passos 1 a 3: a rotina começa pela manhã.</em>
+      <br><em>Passos 1: Acordar</em>
     </td>
     <!-- Passo 4: Ir para o trabalho -->
     <!-- NOTA: Sugere-se alterar a imagem 'imagens/cafe-da-manha.jpg' para uma que represente o trajeto para o trabalho -->
     <td width="33.33%" align="center" valign="top">
-      <img src="imagens/ir-para-o-trabalho.jpg" alt="Pessoa caminhando para o escritório com uma mochila">
-      <br><em>Passo 4: o trajeto para o trabalho.</em>
+      <img src="imagens/cafe-da-manha.jpg" alt="Pessoa caminhando para o escritório com uma mochila">
+      <br><em>Passo 3: Tomar café.</em>
     </td>
     <!-- Passo 5: SENAI -->
     <td width="33.33%" align="center" valign="top">
