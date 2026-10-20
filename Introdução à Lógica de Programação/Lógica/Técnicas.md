@@ -27,6 +27,10 @@ Guia sobre três abordagens de lógica na programação: **linear**, **estrutura
       <img src="imagens/acordar-e-tomar-cafe.jpg" alt="Homem sentado na cama, tomando café pela manhã" width="100%">
       <br><i>Passos 1 a 3: a rotina começa pela manhã.</i>
     </td>
+    <p align="center">
+  <img width="50%" src="imagens/cafe-da-manha.jpg" alt="Mulher sorrindo e tomando café à mesa, em um café da manhã em família" width="480">
+  <br><i>Cada ação da rotina, como o café da manhã, vira um módulo independente.</i>
+</p>
     <td width="50%" align="center" valign="top">
       <img src="imagens/senai-fachada.jpg" alt="Fachada de uma unidade do SENAI, com portão vermelho e bandeiras" width="100%">
       <br><i>Passo 5: o destino final da sequência.</i>
@@ -85,10 +89,7 @@ if ($temFome) {
 
 **Exemplo prático:** em vez de misturar toda a rotina em um único bloco de código, dividem-se as ações em funções isoladas: `tomarBanho()`, `tomarCafe()` e `irParaFaculdade()`.
 
-<p align="center">
-  <img src="imagens/cafe-da-manha.jpg" alt="Mulher sorrindo e tomando café à mesa, em um café da manhã em família" width="480">
-  <br><i>Cada ação da rotina, como o café da manhã, vira um módulo independente.</i>
-</p>
+
 
 **Código em PHP (modular):**
 
