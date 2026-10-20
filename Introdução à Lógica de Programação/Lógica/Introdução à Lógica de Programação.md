@@ -5,7 +5,7 @@ Guia para entender como os computadores "pensam" e como podemos nos comunicar co
 ## Sumário
 
 1. [O que é lógica?](#o-que-é-lógica)
-2. [A frase do Cortella e a definição de lógica](#a-frase-do-cortella-e-a-definição-de-lógica)
+2. [A definição de lógica](#a-frase-do-cortella-e-a-definição-de-lógica)
 3. [Definição técnica de lógica de programação](#definição-técnica-de-lógica-de-programação)
 4. [Exemplo cotidiano: tomar café](#exemplo-cotidiano-tomar-café)
 5. [Conclusão](#conclusão)
