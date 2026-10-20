@@ -21,23 +21,30 @@ Guia sobre três abordagens de lógica na programação: **linear**, **estrutura
 4. Ir para o trabalho
 5. Ir para a faculdade (SENAI Gaspar Ricardo Júnior, Sorocaba/SP)
 
+# Minha Rotina Diária
+
+Aqui está uma representação visual dos passos principais da minha rotina.
+
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="imagens/acordar-e-tomar-cafe.jpg" alt="Homem sentado na cama, tomando café pela manhã" width="100%">
-      <br><i>Passos 1 a 3: a rotina começa pela manhã.</i>
+    <!-- Passo 1 a 3: Manhã -->
+    <td width="33.33%" align="center" valign="top">
+      <img src="imagens/acordar-e-tomar-cafe.jpg" alt="Homem sentado na cama, tomando café pela manhã">
+      <br><em>Passos 1 a 3: a rotina começa pela manhã.</em>
     </td>
-    <p align="center">
-  <img width="50%" src="imagens/cafe-da-manha.jpg" alt="Mulher sorrindo e tomando café à mesa, em um café da manhã em família" width="480">
-  <br><i>Cada ação da rotina, como o café da manhã, vira um módulo independente.</i>
-</p>
-    <td width="50%" align="center" valign="top">
-      <img src="imagens/senai-fachada.jpg" alt="Fachada de uma unidade do SENAI, com portão vermelho e bandeiras" width="100%">
-      <br><i>Passo 5: o destino final da sequência.</i>
+    <!-- Passo 4: Ir para o trabalho -->
+    <!-- NOTA: Sugere-se alterar a imagem 'imagens/cafe-da-manha.jpg' para uma que represente o trajeto para o trabalho -->
+    <td width="33.33%" align="center" valign="top">
+      <img src="imagens/ir-para-o-trabalho.jpg" alt="Pessoa caminhando para o escritório com uma mochila">
+      <br><em>Passo 4: o trajeto para o trabalho.</em>
+    </td>
+    <!-- Passo 5: SENAI -->
+    <td width="33.33%" align="center" valign="top">
+      <img src="imagens/senai-fachada.jpg" alt="Fachada de uma unidade do SENAI, com portão vermelho e bandeiras">
+      <br><em>Passo 5: o destino final, SENAI Gaspar Ricardo Júnior.</em>
     </td>
   </tr>
 </table>
-
 A escola SENAI "Gaspar Ricardo Júnior" fica na Praça Roberto Mange, no bairro Jardim Santa Rosália, em Sorocaba/SP. Em termos visuais, a lógica linear é uma linha reta de passos sequenciais que o aluno cumpre diariamente até chegar à unidade.
 
 **Código em PHP (linear):**
