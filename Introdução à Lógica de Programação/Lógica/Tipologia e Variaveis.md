@@ -77,15 +77,6 @@ Para manter o código limpo, legível e em conformidade com o Clean Code, siga e
 
 ## Tabela de validação de variáveis
 
-| Exemplo | Status | Motivo / regra violada |
-|---|---|---|
-| `notaEstudante` | ✅ Certo | Clara, descritiva e segue o padrão camelCase |
-| `123aluno` | ❌ Errado | Inicia com um número (proibido) |
-| `nome aluno` | ❌ Errado | Contém espaço em branco |
-| `import` | ❌ Errado | É uma palavra reservada da linguagem |
-| `total_vendas_2026` | ✅ Certo | Descritiva, sem espaços e com números no final |
-
-### Mais exemplos
 
 ![Tabela de exemplos de nomes de variáveis, com status certo ou errado e o motivo de cada um](imagens/tabela-validacao-variaveis.jpg)
 
