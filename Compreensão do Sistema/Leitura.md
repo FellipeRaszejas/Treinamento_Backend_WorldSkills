@@ -1,4 +1,4 @@
-# As 3 Fases de Análise do Código
+  # As 3 Fases de Análise do Código
 
 Este guia detalha as três fases pelas quais o código fonte passa antes de ser traduzido: a análise léxica, a sintática e a semântica. Para cada uma, mostra o que ela faz, o que entrega para a fase seguinte e que tipo de erro costuma encontrar.
 
