@@ -1,0 +1,1 @@
+Aula não foi util, estudar a parte
